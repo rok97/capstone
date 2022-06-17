@@ -2,15 +2,11 @@
 
 날씨에 따른 음식추천 앱
 
-## Getting Started
+## 프로젝트 개요
 
-This project is a starting point for a Flutter application.
+누구나 매일 무엇을 먹을지 고민을 하고, 이 고민과 동시에 주위에 어떤 식당을 가야 할지 고민해본 경험이 있을 것이다. 이것은 현대인들이 항상 걱정하고 있는 고질적인 문제이다. 실제로 sns를 하다보면 ‘오늘 무엇을 먹어야 할지’를 주제로 삼은 페이지를 쉽게 볼 수 있고, ‘무한도전’이나 ‘놀면 뭐하니?’같은 방송프로그램에도 등장해, 식사메뉴 선택의 어려움을 개그의 소재로 쓰거나 방송 코너로 쓰이는 경우가 즐비하다. 또한 KBS Joy ‘무엇이든 물어보살’에서는 재취업 준비생이 의뢰인으로 나왔는데 점심 메뉴를 고르는 스트레스로 인해 입사 8개월 만에 회사를 그만뒀다고 한다. 이것은 극단적인 사례이지만 다른 여러 곳에서도 팀의 막내가 과제처럼 점심메뉴 선택지를 떠안게 되는 경우는 많다고 한다. 따라서 우리는 일상 속의 작은 문제지만 우리들의 서비스로 인해 사람들의 고민을 조금이나마 덜어주기 위해 이번 프로젝트를 계획하였다.
 
-A few resources to get you started if this is your first Flutter project:
+## 아키텍처
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://user-images.githubusercontent.com/88660339/174315415-0a8ce8e8-b88a-4eaa-9fda-45b6d2a3a35b.png)
