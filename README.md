@@ -1,6 +1,6 @@
 # capstone
 
-날씨에 따른 음식추천 앱
+주제: 날씨에 따른 음식추천 앱
 
 ## 프로젝트 개요
 
@@ -10,3 +10,12 @@
 
 
 ![image](https://user-images.githubusercontent.com/88660339/174315415-0a8ce8e8-b88a-4eaa-9fda-45b6d2a3a35b.png)
+
+## 기능 설명
+- 날씨에 따른 음식 추천
+![image](https://user-images.githubusercontent.com/88660339/174316036-3b8743fd-42c7-43df-8bb6-b53488aa8c51.png)
+- 카테고리 별 음식 추천
+![image](https://user-images.githubusercontent.com/88660339/174316093-7066b4e3-5df7-498f-9b24-9b73474eb4dd.png)
+- 주변 식당 표시
+![image](https://user-images.githubusercontent.com/88660339/174316162-eaa19dcc-eb55-46d6-8266-ab5fafa18235.png)
+ 
