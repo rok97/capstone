@@ -1,6 +1,6 @@
 # capstone
 
-A new Flutter project.
+날씨에 따른 음식추천 앱
 
 ## Getting Started
 
