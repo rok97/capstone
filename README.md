@@ -8,6 +8,11 @@
 
 ## 아키텍처
 
+- 사용자 인터페이스
+
+![image](https://user-images.githubusercontent.com/88660339/174318415-7f46b3e8-00f2-42c7-b69c-491b3f00ebb5.png)
+
+- 설계
 
 ![image](https://user-images.githubusercontent.com/88660339/174315415-0a8ce8e8-b88a-4eaa-9fda-45b6d2a3a35b.png)
 
